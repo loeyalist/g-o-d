@@ -1,2 +1,2 @@
 # g-o-d
-g-o-d beta=true
+g-o-d is beta, proof.
